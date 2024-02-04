@@ -1,4 +1,4 @@
 # Project_a
-This is the Project on Machine Learning.
+This is Just for Demo work on Git using VS code.
 <br>
 Author -  Tejas (SMVIT)
